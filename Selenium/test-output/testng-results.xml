@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-05T05:58:38Z" name="Default suite" finished-at="2023-06-05T05:58:38Z" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2023-06-05T05:58:38Z" name="Default test" finished-at="2023-06-05T05:58:38Z" duration-ms="51">
+      <class name="com.example.testing.Day9_1">
+        <test-method signature="addMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="addMethod" data-provider="testData1" finished-at="2023-06-05T11:28:38Z" duration-ms="21" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMethod -->
+        <test-method signature="addMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="addMethod" data-provider="testData1" finished-at="2023-06-05T11:28:38Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addMethod -->
+        <test-method signature="divide(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="divide" data-provider="testData4" finished-at="2023-06-05T11:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method signature="divide(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="divide" data-provider="testData4" finished-at="2023-06-05T11:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divide -->
+        <test-method signature="multiplyMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="multiplyMethod" data-provider="testData3" finished-at="2023-06-05T11:28:38Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplyMethod -->
+        <test-method signature="multiplyMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="multiplyMethod" data-provider="testData3" finished-at="2023-06-05T11:28:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplyMethod -->
+        <test-method signature="subMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="subMethod" data-provider="testData2" finished-at="2023-06-05T11:28:38Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod -->
+        <test-method signature="subMethod(int, int, int)[pri:0, instance:com.example.testing.Day9_1@1caa0244]" started-at="2023-06-05T11:28:38Z" name="subMethod" data-provider="testData2" finished-at="2023-06-05T11:28:38Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subMethod -->
+      </class> <!-- com.example.testing.Day9_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
